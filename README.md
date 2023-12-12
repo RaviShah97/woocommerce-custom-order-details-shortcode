@@ -29,6 +29,20 @@ This shortcode allows you to elegantly display order details on the WooCommerce 
 
 ## Usage
 
-- After installation, the order details will automatically appear on the WooCommerce thank you page.
+- After installation, use shortcode `[thank_you_order_details]` and the order details will automatically appear on the WooCommerce thank you page.
 - No additional steps are required for the shortcode to take effect.
+
+# Shortcode Images for Order Details
+
+## 1) Order Details-1
+
+![Order Details-1](https://vistavibes.in/wp-content/uploads/2023/12/Order-Details-1.png)
+
+## 2) Order Details-2
+
+![Order Details-2](https://vistavibes.in/wp-content/uploads/2023/12/Order-Details-2.png)
+
+## 3) Order Details with Shortcode
+
+![Order Details with Shortcode](https://vistavibes.in/wp-content/uploads/2023/12/Order-Details-3.png)
 
