@@ -10,11 +10,11 @@ This shortcode allows you to elegantly display order details on the WooCommerce 
 ## Installation
 
 1. **Download:**
-   - Download the `woocommerce-order-details-shortcode.php` file from this repository.
+   - Download the `woocommerce-order-details-shortcode-php.txt` file from this repository.
 
 2. **Placement:**
    - Open your WordPress theme's `functions.php` file.
-   - Paste the content of `woocommerce-order-details-shortcode.php` at the end of the file.
+   - Paste the content of `woocommerce-order-details-shortcode-php.txt` at the end of the file.
 
    **OR**
 
